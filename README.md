@@ -1,5 +1,5 @@
 # CinematicWorld
-Web-based Application allows users to search different categories and genres of movies and download them. Admins can add, delete, update movies. To build this system HTML, CSS and PHP are used. To make the website more secure password and id of database are encrypted with base64 encode.
+Web-based Application allows users to search different categories and genres of movies and download them. Admins can add, delete, update movies. To build this system HTML, CSS and PHP are used. To make the website more secure passwords and ids of database are encrypted with base64 encode.
 
 # Installation process
 1. Install XAMPP or WAMPP.
