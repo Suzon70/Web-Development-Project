@@ -15,10 +15,10 @@ Web-based Application allows users to search different categories and genres of 
 1. Log in / log out.
 2. Register an admin and remove an admin.
 3. View the request list from the users. 
-4. Add and delete categories. 
+4. Add, update and delete categories. 
 
 ![Screenshot (5)](https://github.com/Suzon70/Web-Development-Project/assets/53349003/297306ef-20f5-4a46-8ec4-e311c63eff41)
-5. Add and delete genres.
+5. Add, update and delete genres.
 
 ![Screenshot (8)](https://github.com/Suzon70/Web-Development-Project/assets/53349003/0493492c-15f2-4404-8303-e8b64d6b3d89)
 
